@@ -1,0 +1,82 @@
+@charset "ISO-8859-1";
+#Ansah
+{
+	margin: -20px auto;
+	
+	background-color:#A267AC;
+	
+}
+#Intrest
+{
+	margin: -20px auto;
+
+	background-color:#CE7BB0;
+	
+}
+
+#info
+{
+	margin: -20px auto;
+	
+	background-color:#FFBCD1;
+	
+}
+
+ol{
+	font-size:20px;
+}
+p{
+	font-size:20px;
+}
+#Contact
+{
+	
+	
+	background-color:#90E0EF;
+	
+}
+
+#Carousel
+{
+	
+	color:white;
+	background-color:#CE7BB0;
+	margin: 20px auto;
+	padding: 3%
+}
+#projects
+{
+	text-align:center;
+}
+#Past
+{
+	text-align:center;
+}
+#card1
+{background-color:#FBCAFF
+}
+#card2
+{background-color:#FBCAFF
+}
+#card3
+{background-color:#FBCAFF
+}
+#inner2
+{
+	 position:relative; 
+	 top:-15px
+  	  
+}
+ #slide1
+ {background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ-Y_GrA_C_Qd_2VIjrqt3b3Djn4Ly9sb8eg&usqp=CAU");
+ }
+ 
+ #slide2
+ {background-image: url("https://qph.fs.quoracdn.net/main-qimg-020975f6b71477878f256064b12875c6");
+ }
+#slide2
+ {background-image: url("https://kylemera.files.wordpress.com/2013/05/pong-2013-05-22-23-41-26-901.jpg");
+ }
+ #slide3
+ {background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ37VMUGDyzdO4NL_dQproZM3pzGUq5TBC8Tw&usqp=CAU");
+ }
